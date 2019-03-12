@@ -8,6 +8,8 @@ Technique：spring+struts+hibernate、JS、Jquery、Ajax、Bootstrap etc.
   2) Product viewing and purchase: Customers can put the goods  into the shopping cart, and then check out the order.
   3) Order inquiry: after the user logs in to the website, he can view the personal account and obtain the order message from it.
 2. Back end: Mainly used for staff to view orders, and then deal with them accordingly.
-- Features included: Order Management: "View Order" "Confirm Delivery Order" "Orders are sorted by address time". 
-  Member management: “Member information inquiry”, “Modify personal address and other information”, “Members with poor reputation.”         Commodity management: “Store shelves”, “Commodity under shelves”, “Inventory information query” and “ Modification of product information."
+- Features included: 
+  1) Order Management: View Order, Confirm Delivery Order, Orders are sorted by address time. 
+  2) Member management: Member information inquiry, Modify personal address and other information, Members with poor reputation.     
+  3) Commodity management: Store shelves, Commodity under shelves, Inventory information query and Modification of product information.
 
